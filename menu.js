@@ -1,3 +1,11 @@
+/**
+*
+* @param id string
+*
+* @param classe string
+*
+*/
+
 function navigation(id, classe) {
 
         element = document.getElementById(id);
